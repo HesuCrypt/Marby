@@ -1,0 +1,6 @@
+{
+  "name": "Marby Food Ventures",
+  "description": "A premium conceptual homepage mockup for a Filipino FMCG heritage bakery brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
